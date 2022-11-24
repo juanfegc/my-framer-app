@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-framer-app/static/css/main.073c9b0a.css",
+    "main.js": "/my-framer-app/static/js/main.a0039308.js",
+    "static/js/787.39593c4d.chunk.js": "/my-framer-app/static/js/787.39593c4d.chunk.js",
+    "static/media/logo.svg": "/my-framer-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-framer-app/index.html",
+    "main.073c9b0a.css.map": "/my-framer-app/static/css/main.073c9b0a.css.map",
+    "main.a0039308.js.map": "/my-framer-app/static/js/main.a0039308.js.map",
+    "787.39593c4d.chunk.js.map": "/my-framer-app/static/js/787.39593c4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a0039308.js"
+  ]
+}
